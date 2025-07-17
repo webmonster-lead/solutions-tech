@@ -10,4 +10,5 @@ La Collectivité Territoriale de Martinique (CTM) dispose de compétences étend
 
 ---
 
-[1. Solutions concrètes pour l'inclusion numérique en Martinique](solutions-concretes-inclusion-numerique-martinique.md)
+[1. Elaborer une stratégie territoriales d'inclusion numérique en Martinique](solutions-concretes-inclusion-numerique-martinique.md)
+[2. Valoriser les lieux de médiation numérique de proximité](valoriser-lieux-mediation-numerique-proximite.md)
