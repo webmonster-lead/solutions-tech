@@ -41,10 +41,10 @@
 - **Indicateur de progression :**
   - Nombre de personnes certifiées par an et taux d’employabilité à 6 mois.
 
-### 3. Partenariats entreprises–fédération du Numérique
+### 3. Partenariats entreprises–fédération du numérique
 
 - **Actions concrètes :**
-  - Les fédérations du numérique orchestrent des synergies : mutualisation d’outils pédagogiques, cofinancement de chaires, organisation de concours, hackathons, mentorat par des experts privés.
+  - Les fédérations du numérique orchestrent des synergies : mutualisation d'outils pédagogiques, cofinancement de chaires, organisation de concours, hackathons, mentorat par des experts privés.
   - Accueil de stagiaires et alternants dans les entreprises privées pour lier théorie et pratique.
 
 - **Pourquoi ça marche en Martinique ?**
@@ -71,10 +71,10 @@
 
 - **Actions concrètes :**
   - Plateformes locales pour orienter les publics vers les formations, stages et emplois numériques adaptés (matching profils-besoins).
-  - Outils d’intelligence artificielle pour le conseil en orientation individualisé.
+  - Outils d'intelligence artificielle pour le conseil en orientation individualisé.
 
 - **Pourquoi ça marche en Martinique ?**
-  - Sur un territoire dispersé, le digital fluidifie l’accès à l’offre.
+  - Sur un territoire dispersé, le digital fluidifie l'accès à l'offre.
   - Permet à chaque Martiniquais de visualiser en temps réel les opportunités et de s’orienter efficacement.
 
 - **Indicateur de progression :**
