@@ -7,7 +7,7 @@
 
 ## Objectifs du projet
 
-- **Stimuler le développement économique, social et culturel** par l’innovation et la créativité.
+- **Stimuler le développement économique, social et culturel** par l'innovation et la créativité.
 - **Renforcer l’accompagnement des acteurs** des ICC et structurer la filière.
 - **Mettre en lumière l’offre** des industries culturelles et créatives martiniquaises, favorisant leur rayonnement local, régional et international[2][4][3].
 
@@ -69,7 +69,7 @@
 - Modules adaptés aux seniors et publics en reconversion.
 
 **Pourquoi cela fonctionne en Martinique :**
-- Réponse aux besoins d’une population vieillissante et à une insertion renforcée des jeunes dans une filière d’avenir.
+- Réponse aux besoins d’une population vieillissante et à une insertion renforcée des jeunes dans une filière d'avenir.
 
 **Indicateur de progression :**
 - Nombre de personnes formées et taux d’intégration professionnelle dans la filière ICC.
@@ -84,7 +84,7 @@
 | Valorisation/diffusion numérique des œuvres       | Plateformes, médias locaux  | Visibilité et export de la création   | Œuvres diffusées/nouveaux marchés              |
 | Formations d'excellence et de reconversion        | Organismes privés           | Réponse à l’emploi et au vieillissement| Nombre formés/taux d’insertion                |
 
-## Orchestration des rôles selon l'écosystème Local
+## Orchestration des rôles selon l'écosystème local
 
 - **EPCI (Communautés d'agglomération ou intercommunalités)**  
   - Assurent la coordination logistique territoriale.
@@ -95,7 +95,7 @@
   - Favorisent la circulation d’informations, les partenariats inter-entreprises.
 
 - **Entreprises privées et startups**  
-  - Innovera technologie et modèles, industrialisent la diffusion et l’accompagnement.
+  - Innovera technologie et modèles, industrialisent la diffusion et l'accompagnement.
   - Déploient des plateformes techniques et des dispositifs d’accompagnement.
 
 ## Points forts du modèle Martinique
