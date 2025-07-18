@@ -18,4 +18,4 @@ La Collectivité Territoriale de Martinique (CTM) dispose de compétences étend
 
 [4. Pôle industries culturelles et créatives en Martinique](pole-industries-culturelles-creatives-martinique.md)
 
-[5. Intelligence Artificielle en Martinique](intelligence-artificielle-martinique.md)
+[5. Intelligence artificielle en Martinique](intelligence-artificielle-martinique.md)
